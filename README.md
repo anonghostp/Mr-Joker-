@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### GNU Modder · Mr. Joker
+### 🃏 · Mr. Joker
 
 *Pentester · Ethical Hacker · Desenvolvedor Open-Source*
 
